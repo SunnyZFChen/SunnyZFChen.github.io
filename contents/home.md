@@ -1,9 +1,9 @@
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: sestriver@main.scut.edu.cn
 
 #### Education
-B.E., Software Engineering, China University of Mining and Technology, 2018—2022.
+B.E., Software Engineering, South China University of Technology, 2022-2026.
 
 #### Research Interests
 C++; DataBase; Autonomous driving
